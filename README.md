@@ -30,9 +30,6 @@ Shelby shifts the paradigm by returning **Data Ownership** to the users and prov
 * **Strategic Partner:** Jump Crypto
 * **Focus:** High-throughput, Decentralized Hot Storage
 
----
+Done
 
-## 🌐 Connect with Us
-*Join the revolution where speed meets decentralization.*
 
-[Insert your links here: Website | Twitter | Discord]

@@ -1,4 +1,4 @@
- ![Image Alt](<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fe24ceaf-9d0f-46f5-aa15-73aa5278714b" />
+ ![Image Alt](https://github.com/dentunho/Is-Shelby-the-trend-of-the-future/blob/93a3e5071963a204054f95f405daf7ecab9ae2f9/ChatGPT%20Image%20Mar%2011%2C%202026%2C%2012_28_18%20PM.png
 )
 # What is Shelby? 🔍
 # 🏎️ SHELBY: The V12 Engine Powering Web3 Beyond Speed Limits 🏁

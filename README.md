@@ -1,4 +1,5 @@
-
+ ![Image Alt](<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fe24ceaf-9d0f-46f5-aa15-73aa5278714b" />
+)
 # What is Shelby? 🔍
 # 🏎️ SHELBY: The V12 Engine Powering Web3 Beyond Speed Limits 🏁
 

@@ -1,5 +1,5 @@
 
-What is Shelby? 🔍
+# What is Shelby? 🔍
 # 🏎️ SHELBY: The V12 Engine Powering Web3 Beyond Speed Limits 🏁
 
 **Shelby** is a decentralized **Hot Data Storage** protocol developed through a strategic partnership between **Aptos Labs** and **Jump Crypto**. Unlike traditional "cold" storage (such as Arweave or Filecoin), Shelby is engineered for extreme velocity, achieving sub-second data retrieval times that rival centralized giants like AWS.
